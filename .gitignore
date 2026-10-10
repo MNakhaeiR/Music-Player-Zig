@@ -1,0 +1,8 @@
+.zig-cache/
+zig-out/
+
+# Scratch output from --screenshot and --render
+*.bmp
+zmp-gui-debug.log
+
+.claude-flow/
